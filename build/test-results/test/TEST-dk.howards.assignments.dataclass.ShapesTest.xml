@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dk.howards.assignments.dataclass.ShapesTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-12-22T09:00:06" hostname="D44865" time="0.009">
+  <properties/>
+  <testcase name="testComposition()" classname="dk.howards.assignments.dataclass.ShapesTest" time="0.004"/>
+  <testcase name="testCircle()" classname="dk.howards.assignments.dataclass.ShapesTest" time="0.002"/>
+  <testcase name="testRectAngle()" classname="dk.howards.assignments.dataclass.ShapesTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

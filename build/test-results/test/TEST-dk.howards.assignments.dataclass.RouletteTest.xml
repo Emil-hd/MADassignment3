@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dk.howards.assignments.dataclass.RouletteTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2022-12-22T09:00:05" hostname="D44865" time="0.744">
+  <properties/>
+  <testcase name="calculateWinOfNumber()" classname="dk.howards.assignments.dataclass.RouletteTest" time="0.069"/>
+  <testcase name="calculateWinOfOdd()" classname="dk.howards.assignments.dataclass.RouletteTest" time="0.001"/>
+  <testcase name="calculateWinOfRed()" classname="dk.howards.assignments.dataclass.RouletteTest" time="0.001"/>
+  <testcase name="calculateWinOfNumberZero()" classname="dk.howards.assignments.dataclass.RouletteTest" time="0.0"/>
+  <testcase name="showSpinResultOf0()" classname="dk.howards.assignments.dataclass.RouletteTest" time="0.001"/>
+  <testcase name="showSpinResultOf2()" classname="dk.howards.assignments.dataclass.RouletteTest" time="0.001"/>
+  <testcase name="rouletteBetImmutable()" classname="dk.howards.assignments.dataclass.RouletteTest" time="0.603"/>
+  <testcase name="calculateWinOfNumberOfBets()" classname="dk.howards.assignments.dataclass.RouletteTest" time="0.002"/>
+  <testcase name="calculateWinOfBlack()" classname="dk.howards.assignments.dataclass.RouletteTest" time="0.001"/>
+  <testcase name="calculateNoWinOfEven()" classname="dk.howards.assignments.dataclass.RouletteTest" time="0.002"/>
+  <testcase name="calculateNoWinOfNumberZero()" classname="dk.howards.assignments.dataclass.RouletteTest" time="0.002"/>
+  <testcase name="calculateWinOfEven()" classname="dk.howards.assignments.dataclass.RouletteTest" time="0.002"/>
+  <testcase name="rouletteBetsImmutable()" classname="dk.howards.assignments.dataclass.RouletteTest" time="0.032"/>
+  <testcase name="testSpinner()" classname="dk.howards.assignments.dataclass.RouletteTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
